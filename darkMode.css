@@ -1,0 +1,15 @@
+
+body {
+    background-color: #fff;
+    color: #121212;
+  }
+
+  body.dark-mode {
+    background-color: #094a4e;
+    color: #e0e0e0;
+  }
+
+  .btn-primary {
+    margin: 10px;
+  }
+  

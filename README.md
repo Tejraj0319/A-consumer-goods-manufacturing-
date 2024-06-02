@@ -1,2 +1,8 @@
-# A-consumer-goods-manufacturing-
-A consumer goods manufacturing company has stocks in its product inventory. whenever it sells it to retailers or distributors, it needs to generate a sale order for record-keeping and compliance purposes. As a part of the assignment, I have  build only the frontend part of the simple sale order management application.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
